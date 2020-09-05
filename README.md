@@ -28,4 +28,4 @@ Once the environment is ready just click the .feature file you want to run. For 
  - in resources dir features are present 
  - locate backend.feature file, right click then select "Run"
  - Tests execution will be started and tests results will also be displayed 
- - 
+ - Included my own execution videos ;)
