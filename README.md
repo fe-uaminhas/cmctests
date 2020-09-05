@@ -2,9 +2,7 @@
 
 This repo contains the automated test sets to validate frontend and backend of coinmarketcap.com
 
-  - Type some Markdown on the left
-  - See HTML in the right
-  - Magic
+
 
 # Tech!
 These tests are written in cucumber framework and implemented with java ans selenium webdriver.
